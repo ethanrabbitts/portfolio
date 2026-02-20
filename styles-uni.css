@@ -189,7 +189,7 @@ a:hover {
 }
 
 .feature1 {
-	background-image: url("image/Scop-Home_Feature.png");
+	background-image: url("images/Scop-Home_Feature.png");
 	background-repeat: no-repeat;
 	background-position: center;
 }
@@ -391,3 +391,4 @@ iframe {
 
 
 .text > .featureHead
+
