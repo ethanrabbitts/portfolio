@@ -194,27 +194,27 @@ a:hover {
 	background-position: center;
 }
 .feature2 {
-	background-image: url("Endo-Home_Feature.png");
+	background-image: url("images/Endo-Home_Feature.png");
 	background-repeat: no-repeat;
 	background-position: center;
 }
 .feature3 {
-    background-image: url("Play-Home_Feature.png");
+    background-image: url("images/Play-Home_Feature.png");
     background-repeat: no-repeat;
     background-position: bottom;
 }
 .feature4 {
-    background-image: url("Bill-Home_Feature.png");
+    background-image: url("images/Bill-Home_Feature.png");
     background-repeat: no-repeat;
     background-position: center;
 }
 .feature5 {
-    background-image: url("Eternal-Home_Feature.png");
+    background-image: url("images/Eternal-Home_Feature.png");
     background-repeat: no-repeat;
     background-position: center;
 }
 .feature6 {
-    background-image: url("Too-Home_Feature.png");
+    background-image: url("images/Too-Home_Feature.png");
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -252,7 +252,7 @@ a:hover {
 }
 
 .scopHead {
-	background-image: url("Scop-Shorts_Feature.png");
+	background-image: url("images/Scop-Shorts_Feature.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 100vh;
@@ -260,7 +260,7 @@ a:hover {
 }
 
 .endoHead {
-	background-image: url("Endo-Shorts_Feature.png");
+	background-image: url("images/Endo-Shorts_Feature.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 100vh;
@@ -268,7 +268,7 @@ a:hover {
 }
 
 .playHead {
-	background-image: url("Play-Shorts_Feature.png");
+	background-image: url("images/Play-Shorts_Feature.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 100vh;
@@ -276,7 +276,7 @@ a:hover {
 }
 
 .billHead {
-	background-image: url("Bill-Shorts_Feature.png");
+	background-image: url("images/Bill-Shorts_Feature.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 100vh;
@@ -284,7 +284,7 @@ a:hover {
 }
 
 .eternalHead {
-	background-image: url("Eternal-Shorts_Feature.png");
+	background-image: url("images/Eternal-Shorts_Feature.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 100vh;
@@ -292,7 +292,7 @@ a:hover {
 }
 
 .tooHead {
-	background-image: url("Too-Shorts_Feature.png");
+	background-image: url("images/Too-Shorts_Feature.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 100vh;
@@ -351,16 +351,16 @@ iframe {
 }
 
 .P1 {
-	background-image: url("P1.png");
+	background-image: url("images/P1.png");
 }
 .P2 {
-	background-image: url("P2.png");
+	background-image: url("images/P2.png");
 }
 .P3 {
-	background-image:url("P3.png");
+	background-image:url("images/P3.png");
 }
 .P4 {
-	background-image: url("P4.png");
+	background-image: url("images/P4.png");
 }
 
 .cs1 { grid-column-start: 1; }
@@ -391,5 +391,6 @@ iframe {
 
 
 .text > .featureHead
+
 
 
